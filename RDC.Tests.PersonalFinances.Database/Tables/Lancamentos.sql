@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Lancamentos]
+(
+	[Codigo] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+	[Data] DATETIME NOT NULL,
+	[Valor] NUMERIC(18,10) NOT NULL,
+	[Descricao] VARCHAR(250) NOT NULL,
+	[Conta] VARCHAR(50) NOT NULL,
+	[Tipo] CHAR(1) NOT NULL
+)

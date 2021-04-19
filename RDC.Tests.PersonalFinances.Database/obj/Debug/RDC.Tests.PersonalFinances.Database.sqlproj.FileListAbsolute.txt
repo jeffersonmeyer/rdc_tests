@@ -1,0 +1,10 @@
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\bin\Debug\RDC.Tests.PersonalFinances.Database.dacpac
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\bin\Debug\RDC.Tests.PersonalFinances.Database.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\bin\Debug\RDC.Tests.PersonalFinances.Database.pdb
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\RDC.Tests.PersonalFinances.Database.sqlprojAssemblyReference.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\Model.xml
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\refactor.xml
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\postdeploy.sql
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\predeploy.sql
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\RDC.Tests.PersonalFinances.Database.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.Database\obj\Debug\RDC.Tests.PersonalFinances.Database.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2ZaW8VYCC0Boc7xev1IsnXGO4JEDDxjinaPT/j7yictGqki5RFWdaYKw+M9WWKJKJi0HMIZgPaqqyC09mAGYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\RDC.Tests.PersonalFinances.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jefferson Meyer\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

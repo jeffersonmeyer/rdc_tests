@@ -8,12 +8,12 @@ namespace RDC.Tests.UnitTest
         [TestMethod]
         public void SaveRianTest()
         {
-            var soldiers = 5;
-            var expectedResult = 3;
+            var soldados = 5;
+            var resultadoEsperado = 3;
 
-            var result = SaveRian.Program.KillSoldiers(soldiers);
+            var resultado = SaveRian.Program.ObterPosicaoDeSorte(soldados);
 
-            Assert.AreEqual(expectedResult, result);
+            Assert.AreEqual(resultadoEsperado, resultado);
         }
     }
 }

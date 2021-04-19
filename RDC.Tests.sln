@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDC.Tests.SaveRian", "RDC.Tests.SaveRian\RDC.Tests.SaveRian.csproj", "{97120740-ECC1-4E00-8A21-77CC2A040D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDC.Tests.UnitTest", "RDC.Tests.UnitTest\RDC.Tests.UnitTest.csproj", "{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDC.Tests.UnitTest", "RDC.Tests.UnitTest\RDC.Tests.UnitTest.csproj", "{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDC.Tests.PersonalFinances.WebApi", "RDC.Tests.PersonalFinances.WebApi\RDC.Tests.PersonalFinances.WebApi.csproj", "{104F8C6B-0DF6-40B7-BDD7-B0B8F3A5EEA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDC.Tests.PersonalFinances.Models", "RDC.Tests.PersonalFinances.Models\RDC.Tests.PersonalFinances.Models.csproj", "{6F7B547A-7C07-4701-B27F-1612767BD9BF}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RDC.Tests.PersonalFinances.Database", "RDC.Tests.PersonalFinances.Database\RDC.Tests.PersonalFinances.Database.sqlproj", "{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDC.Tests.PersonalFinances.DataAccess", "RDC.Tests.PersonalFinances.DataAccess\RDC.Tests.PersonalFinances.DataAccess.csproj", "{D08C4B0C-407D-4287-8CA5-F812CD06D99D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,24 @@ Global
 		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104F8C6B-0DF6-40B7-BDD7-B0B8F3A5EEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104F8C6B-0DF6-40B7-BDD7-B0B8F3A5EEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104F8C6B-0DF6-40B7-BDD7-B0B8F3A5EEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104F8C6B-0DF6-40B7-BDD7-B0B8F3A5EEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7B547A-7C07-4701-B27F-1612767BD9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7B547A-7C07-4701-B27F-1612767BD9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7B547A-7C07-4701-B27F-1612767BD9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7B547A-7C07-4701-B27F-1612767BD9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43B6AE5-6BD2-4419-BA23-606BB9AD42B2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D08C4B0C-407D-4287-8CA5-F812CD06D99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08C4B0C-407D-4287-8CA5-F812CD06D99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08C4B0C-407D-4287-8CA5-F812CD06D99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08C4B0C-407D-4287-8CA5-F812CD06D99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

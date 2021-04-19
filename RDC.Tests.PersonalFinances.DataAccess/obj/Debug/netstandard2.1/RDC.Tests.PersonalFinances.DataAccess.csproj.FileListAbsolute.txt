@@ -1,0 +1,12 @@
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\bin\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.deps.json
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\bin\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\bin\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.pdb
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\bin\Debug\netstandard2.1\RDC.Tests.PersonalFinances.Models.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\bin\Debug\netstandard2.1\RDC.Tests.PersonalFinances.Models.pdb
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.AssemblyInfo.cs
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.csproj.CopyComplete
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.PersonalFinances.DataAccess\obj\Debug\netstandard2.1\RDC.Tests.PersonalFinances.DataAccess.pdb

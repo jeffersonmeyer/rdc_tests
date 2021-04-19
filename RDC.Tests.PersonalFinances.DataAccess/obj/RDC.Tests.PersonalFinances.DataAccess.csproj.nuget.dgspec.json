@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.DataAccess\\RDC.Tests.PersonalFinances.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.DataAccess\\RDC.Tests.PersonalFinances.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.DataAccess\\RDC.Tests.PersonalFinances.DataAccess.csproj",
+        "projectName": "RDC.Tests.PersonalFinances.DataAccess",
+        "projectPath": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.DataAccess\\RDC.Tests.PersonalFinances.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Jefferson Meyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jefferson Meyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\RDC.Tests.PersonalFinances.Models.csproj": {
+                "projectPath": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\RDC.Tests.PersonalFinances.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\RDC.Tests.PersonalFinances.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\RDC.Tests.PersonalFinances.Models.csproj",
+        "projectName": "RDC.Tests.PersonalFinances.Models",
+        "projectPath": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\RDC.Tests.PersonalFinances.Models.csproj",
+        "packagesPath": "C:\\Users\\Jefferson Meyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jefferson Meyer\\source\\repos\\rdc_tests\\RDC.Tests.PersonalFinances.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jefferson Meyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

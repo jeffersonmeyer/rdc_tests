@@ -6,38 +6,38 @@ namespace RDC.Tests.SaveRian
     {
         static void Main()
         {
-            Execute();
+            ExecutarSoldados();
         }
 
-        static void Execute()
+        static void ExecutarSoldados()
         {
-            var valid = false;
-            var soldiers = 0;
+            var valido = false;
+            var soldados = 0;
             Console.WriteLine("Bem vindo a execução de soldados, informe quantos soldados farão parte da cerimônia:");
-            while (!valid)
+            while (!valido)
             {
-                var strSoldiers = Console.ReadLine();
-                valid = int.TryParse(strSoldiers, out soldiers);
-                if (!valid)
+                var strSoldados = Console.ReadLine();
+                valido = int.TryParse(strSoldados, out soldados);
+                if (!valido)
                 {
                     Console.WriteLine("Número inválido. Por favor digite um número inteiro");
                 }
             }
 
-            if (soldiers == 1)
+            if (soldados == 1)
             {
                 Console.WriteLine("Só tem você, fuja enquanto pode!");
-                AskToExecuteAgain();
+                PerguntarSeExecutarMaisSoldados();
             }
             else
             {
-                var luckySpot = KillSoldiers(soldiers);
-                Console.WriteLine($"Se o Rian quiser sobreviver, sente-se na posição: {luckySpot}");
-                AskToExecuteAgain();
+                var lugarDeSorte = ObterPosicaoDeSorte(soldados);
+                Console.WriteLine($"Se o Rian quiser sobreviver, sente-se na posição: {lugarDeSorte}");
+                PerguntarSeExecutarMaisSoldados();
             }
         }
 
-        static void AskToExecuteAgain()
+        static void PerguntarSeExecutarMaisSoldados()
         {
             Console.WriteLine("Gostaria de tentar novamente? S/N");
             var answer = Console.ReadLine();
@@ -49,26 +49,26 @@ namespace RDC.Tests.SaveRian
             switch (answer.ToUpper())
             {
                 case "S":
-                    Execute();
+                    ExecutarSoldados();
                     break;
                 case "N":
                     break;
             }
         }
 
-        public static int KillSoldiers(int soldiers)
+        public static int ObterPosicaoDeSorte(int soldados)
         {
             //Valor fixo, simboliza o primeiro a ser executado
-            var firstKill = 2;
+            var primeiroAMorrer = 2;
 
             //Chamada recursiva que leva em consideração a primeira morte sendo do soldado 2
             //e ao mesmo tempo vai reduzindo o número de soldados no círculo
             //até sobrar só o Rian => firstKill-1
-            if (soldiers == 1)
+            if (soldados == 1)
             {
                 return 1;
             }
-            return (KillSoldiers(soldiers - 1) + firstKill - 1) % soldiers + 1;
+            return (ObterPosicaoDeSorte(soldados - 1) + primeiroAMorrer - 1) % soldados + 1;
         }
     }
 }
