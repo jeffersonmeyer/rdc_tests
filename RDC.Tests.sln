@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDC.Tests.SaveRian", "RDC.Tests.SaveRian\RDC.Tests.SaveRian.csproj", "{97120740-ECC1-4E00-8A21-77CC2A040D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDC.Tests.UnitTest", "RDC.Tests.UnitTest\RDC.Tests.UnitTest.csproj", "{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97120740-ECC1-4E00-8A21-77CC2A040D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97120740-ECC1-4E00-8A21-77CC2A040D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97120740-ECC1-4E00-8A21-77CC2A040D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97120740-ECC1-4E00-8A21-77CC2A040D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4478B4-CF6A-4F61-8DD1-7AB325D77C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3C2746-8A76-4B0A-AC78-5E1DEA859D88}
+	EndGlobalSection
+EndGlobal

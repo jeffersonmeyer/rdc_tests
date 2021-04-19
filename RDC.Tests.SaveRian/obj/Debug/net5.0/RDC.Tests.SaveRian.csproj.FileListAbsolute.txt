@@ -1,0 +1,16 @@
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\RDC.Tests.SaveRian.exe
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\RDC.Tests.SaveRian.deps.json
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\RDC.Tests.SaveRian.runtimeconfig.json
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\RDC.Tests.SaveRian.runtimeconfig.dev.json
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\RDC.Tests.SaveRian.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\ref\RDC.Tests.SaveRian.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\bin\Debug\net5.0\RDC.Tests.SaveRian.pdb
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.csprojAssemblyReference.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.AssemblyInfoInputs.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.AssemblyInfo.cs
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\ref\RDC.Tests.SaveRian.dll
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.pdb
+C:\Users\Jefferson Meyer\source\repos\rdc_tests\RDC.Tests.SaveRian\obj\Debug\net5.0\RDC.Tests.SaveRian.genruntimeconfig.cache

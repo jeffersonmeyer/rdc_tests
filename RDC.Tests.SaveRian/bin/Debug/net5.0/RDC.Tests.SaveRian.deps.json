@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RDC.Tests.SaveRian/1.0.0": {
+        "runtime": {
+          "RDC.Tests.SaveRian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RDC.Tests.SaveRian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
