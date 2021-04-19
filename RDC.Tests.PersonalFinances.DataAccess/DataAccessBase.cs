@@ -7,7 +7,7 @@ namespace RDC.Tests.PersonalFinances.DataAccess
 {
     public static class DataAccessBase
     {
-        private const string ConnString = "Server=GGPC;Database=DBRDCPERSONALFINANCE;Trusted_Connection=True";
+        private const string ConnString = "Server={Server};Database={DbName};Trusted_Connection=True";
 
         public static void ExecuteProc(string procName, IEnumerable<DynamicParameters> parameters)
         {
